@@ -1,0 +1,25 @@
+{
+ "name": "中国近现代史纲要 · 题库",
+ "short_name": "史纲题库",
+ "description": "中国近现代史纲要平时测验题库，支持顺序刷题、错题本重做、随机组题。",
+ "lang": "zh-CN",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#f2f4f8",
+ "theme_color": "#4a7bf7",
+ "icons": [
+  {
+   "src": "icon-180.png",
+   "sizes": "180x180",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
